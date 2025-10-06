@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"io.foldright.cffu2"},{"l":"io.foldright.cffu2.eh"},{"l":"io.foldright.cffu2.spi"},{"l":"io.foldright.cffu2.ttl"},{"l":"io.foldright.cffu2.tuple"}];updateSearchResults();
